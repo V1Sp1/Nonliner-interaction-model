@@ -1,0 +1,6 @@
+/app.spec
+.idea
+/build
+/dist
+/__pycache__
+/output
